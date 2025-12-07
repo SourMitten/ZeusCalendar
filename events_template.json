@@ -1,9 +1,79 @@
 [
   {
-    "title": "Example Event",
-    "month": "Zeus",
-    "day": 1,
+    "title": "New Year's Day",
+    "gregorian_month": 1,
+    "gregorian_day": 1,
+    "color": "red",
+    "recurrence": "yearly"
+  },
+  {
+    "title": "Martin Luther King Jr. Day",
+    "gregorian_month": 1,
+    "gregorian_day": 15,
     "color": "blue",
+    "recurrence": "yearly"
+  },
+  {
+    "title": "Washington's Birthday",
+    "gregorian_month": 2,
+    "gregorian_day": 22,
+    "color": "blue",
+    "recurrence": "yearly"
+  },
+  {
+    "title": "Memorial Day",
+    "gregorian_month": 5,
+    "gregorian_day": 29,
+    "color": "green",
+    "recurrence": "yearly"
+  },
+  {
+    "title": "Juneteenth National Independence Day",
+    "gregorian_month": 6,
+    "gregorian_day": 19,
+    "color": "red",
+    "recurrence": "yearly"
+  },
+  {
+    "title": "Independence Day",
+    "gregorian_month": 7,
+    "gregorian_day": 4,
+    "color": "red",
+    "recurrence": "yearly"
+  },
+  {
+    "title": "Labor Day",
+    "gregorian_month": 9,
+    "gregorian_day": 4,
+    "color": "orange",
+    "recurrence": "yearly"
+  },
+  {
+    "title": "Columbus Day / Indigenous Peoples' Day",
+    "gregorian_month": 10,
+    "gregorian_day": 9,
+    "color": "purple",
+    "recurrence": "yearly"
+  },
+  {
+    "title": "Veterans Day",
+    "gregorian_month": 11,
+    "gregorian_day": 11,
+    "color": "blue",
+    "recurrence": "yearly"
+  },
+  {
+    "title": "Thanksgiving Day",
+    "gregorian_month": 11,
+    "gregorian_day": 23,
+    "color": "orange",
+    "recurrence": "yearly"
+  },
+  {
+    "title": "Christmas Day",
+    "gregorian_month": 12,
+    "gregorian_day": 25,
+    "color": "green",
     "recurrence": "yearly"
   }
 ]
