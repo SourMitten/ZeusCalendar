@@ -1,0 +1,9 @@
+[
+  {
+    "title": "Example Event",
+    "month": "Zeus",
+    "day": 1,
+    "color": "blue",
+    "recurrence": "yearly"
+  }
+]
